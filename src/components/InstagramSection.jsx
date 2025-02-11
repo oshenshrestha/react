@@ -43,7 +43,7 @@ export default function InstagramSection() {
   return (
     <section id="instagram-section" className="bg-slate-100 py-[50px]">
       <div className="flex justify-center text-center pb-[50px]">
-        <h2>follow me on instagram</h2>
+        <h2></h2>
       </div>
       <div className='relative'>
       <div className='h-[300px] lg:h-[350px] overflow-hidden'>
@@ -53,7 +53,7 @@ export default function InstagramSection() {
           ))}
         </div>
       </div>
-      <a href='https://www.instagram.com/nemanjaphotography_/' target='_blank' aria-label="Visit Instagram page" className='bg-white text-lg absolute p-4 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10'>@nemanjaphotography_</a>
+      <a href='https://www.instagram.com/nemanjaphotography_/' target='_blank' aria-label="Visit Instagram page" className='bg-white text-lg absolute p-4 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10'>@oshen_shrestha</a>
       <div className="bg-black/50 absolute h-full w-full top-0 left-0"></div>
       </div>
     </section>

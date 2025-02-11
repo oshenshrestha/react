@@ -1,4 +1,8 @@
 import { Link, useLocation } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faHeart } from "@fortawesome/free-solid-svg-icons";
+
+
 
 export default function Navbar() {
 
@@ -6,15 +10,14 @@ export default function Navbar() {
 
     const navLinks = [
         {name: 'Home', url: '/'},
-        {name: 'Portfolio', url: '/portfolio'},
-        {name: 'About', url: '/about'},
-        {name: 'Contact', url: '/contact'},
+        {name: 'Photos', url: '/portfolio'},
+        {name: 'Music', url: '/music'},
     ]
 
     return (
         <header className="fixed top-0 left-0 right-0 z-10 bg-white">
             <div className="section-container py-5 flex items-center justify-between text-black">
-                <Link to='/' className="font-serif text-base lg:text-xl font-semibold uppercase">Nemanja Photography</Link>
+                <Link to='/' className="font-serif text-base lg:text-xl font-semibold uppercase">Viv + Oshen  <FontAwesomeIcon color = "pink"icon={faHeart} /></Link>
                 <ul className="hidden text-sm md:flex space-x-6">
                     {navLinks.map((navLink, index) => (
                         <li key={index} className="group relative">
