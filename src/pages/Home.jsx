@@ -3,11 +3,7 @@ import videoBg from '../assets/IMG_6278.jpg';
 import servicesImg1 from '../assets/services-img-1.jpg';
 import servicesImg2 from '../assets/services-img-2.jpg';
 import servicesImg3 from '../assets/services-img-3.jpg';
-import ctaImage from '../assets/Fitness.jpg';
 import Footer from "../components/Footer";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faHeart } from "@fortawesome/free-solid-svg-icons";
-import running from '../assets/running.mp4';
 
 
 export default function Home() {

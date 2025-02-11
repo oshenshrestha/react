@@ -21,10 +21,9 @@ import slide8 from '../assets/slide8.jpg';
 import slide9 from '../assets/slide9.jpg';
 import slide10 from '../assets/slide10.jpg';
 import slide11 from '../assets/slide11.jpg';
-import running from '../assets/running.mp4';
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faHeart, faCircleArrowRight, faCircleArrowLeft } from "@fortawesome/free-solid-svg-icons";
+import { faCircleArrowRight, faCircleArrowLeft } from "@fortawesome/free-solid-svg-icons";
 
 
 import { Pagination, EffectCoverflow, Navigation } from 'swiper/modules';

@@ -1,11 +1,4 @@
-import { Link } from "react-router-dom";
-import videoBg from '../assets/IMG_1994.jpg';
-import servicesImg1 from '../assets/services-img-1.jpg';
-import servicesImg2 from '../assets/services-img-2.jpg';
 import servicesImg3 from '../assets/services-img-3.jpg';
-import ctaImage from '../assets/Fitness.jpg';
-import InstagramSection from "../components/InstagramSection";
-import Footer from "../components/Footer";
 
 
 
