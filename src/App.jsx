@@ -16,7 +16,7 @@ function App() {
           <Route path="/react/portfolio" element={<Portfolio />} />
           <Route path="/react/about" element={<About />} />
           <Route path="/react/music" element={<Music />} />
-          <Route path="/reat/photos" element={<Photos />} />
+          <Route path="/react/photos" element={<Photos />} />
         </Routes>
     </>
   )
