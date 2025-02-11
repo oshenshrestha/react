@@ -27,7 +27,7 @@ export default function Home() {
                         <h1 className="">Happy Valentines Day</h1>
                         <p className="my-6">Heres a little something to showcase our mems!</p>
                         <p className="my-6">Read the thingy below first</p>
-                        <Link to='/portfolio' className="btn">LEMME SEEE</Link>
+                        <Link to='/react/portfolio' className="btn">LEMME SEEE</Link>
                     </div>
                 </div>
             </section>
