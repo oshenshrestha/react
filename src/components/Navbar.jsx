@@ -9,9 +9,9 @@ export default function Navbar() {
     const location = useLocation()
 
     const navLinks = [
-        {name: 'Home', url: '/'},
-        {name: 'Photos', url: '/portfolio'},
-        {name: 'Music', url: '/music'},
+        {name: 'Home', url: '/react/'},
+        {name: 'Photos', url: '/react/portfolio'},
+        {name: 'Music', url: '/react/music'},
     ]
 
     return (
