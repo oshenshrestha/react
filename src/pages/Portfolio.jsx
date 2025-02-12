@@ -21,6 +21,9 @@ import slide8 from '../assets/slide8.jpg';
 import slide9 from '../assets/slide9.jpg';
 import slide10 from '../assets/slide10.jpg';
 import slide11 from '../assets/slide11.jpg';
+import slide12 from '../assets/slide12.jpg';
+import slide13 from '../assets/slide13.jpg';
+
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCircleArrowRight, faCircleArrowLeft } from "@fortawesome/free-solid-svg-icons";
@@ -64,9 +67,12 @@ export default function Portfolio() {
           <SwiperSlide> <img src={slide9} alt="slide_image" /></SwiperSlide>
           <SwiperSlide> <img src={slide10} alt="slide_image" /></SwiperSlide>
           <SwiperSlide> <img src={slide11} alt="slide_image" /></SwiperSlide>
+          <SwiperSlide> <img src={slide13} alt="slide_image" /></SwiperSlide>
           <SwiperSlide> <img src={slide1} alt="slide_image" /></SwiperSlide>
           <SwiperSlide> <img src={slide2} alt="slide_image" /></SwiperSlide>
           <SwiperSlide> <img src={slide3} alt="slide_image" /></SwiperSlide>
+          <SwiperSlide> <img src={slide12} alt="slide_image" /></SwiperSlide>
+
 
           <div className="slider-controler">
             <div className="swiper-button-prev slider-arrow">
