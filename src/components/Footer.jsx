@@ -7,7 +7,7 @@ export default function Footer() {
                 <div className="flex space-x-8 max-w-[1000px]">
                     <div>
                         <p>(Due to copyright for some reason
-                            they didnt let me automatically play this song which I didnt even know was a thing so uhhh if you could kindly hit Play beofre you
+                            they didnt let me automatically play this song which I didnt even know was a thing so uhhh if you could kindly hit Play before you
                             continue reading that would be cool. Im gonna leave a couple of spaces under this for dramatic effect)
 
                         </p>
@@ -17,7 +17,9 @@ export default function Footer() {
                             my computer was actually exploding so lets just hope this works on your mac. But just wanted to say thank you for
                             all the amazing and cool memories and I am very grateful to have been able to spend them with you. Thank you for
                             being so awesome and patient and always understanding. Just know you always strive to make me a better person everyday
-                            with your work ethic and kind personality and you are truly a humble person who always puts others ahead of you.
+                            with your work ethic and kind personality and you are truly a humble person who always puts others ahead of you. Your aura is 
+                            light pink because you always provide people with a sense of comfort and everything you do comes from the heart which perfectly 
+                            encapsulates who you are as a person.
                             Maybe you were created in a lab or something.. But just saying
                             if you were a booger I'd pick you #ayee #rizz #abg Anyways Im going to STOP the glaze now my mouth is kinda hurting but
                             enjoy this little creation and hopefully you like it :D Also this song reminds me of you.

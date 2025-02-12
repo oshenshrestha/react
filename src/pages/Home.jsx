@@ -8,11 +8,6 @@ import Footer from "../components/Footer";
 
 export default function Home() {
 
-    const services = [
-        { servicesName: 'Travel Vlogs', servicesDescription: "My vlogs from all my trips. Im trying to travel more this year but heres a calm luh vlog to caputure more mems.", servicesImage: servicesImg1, alt: 'Photo Shooting image' },
-        { servicesName: 'Haircut Journey', servicesDescription: "Im practicing cutting hair so I just needed a place to dump all the progress. Not even trying to be a barber i just want to be able to give my self haircuts just so I know how to. I have an extensive clientelle base (five people)", servicesImage: servicesImg2, alt: 'Video Shooting image' },
-        { servicesName: 'Outfit Dumps', servicesDescription: "Trying to get more into fashion and stuff so its basically just a whole lot of outfits/inspo for me to look at in the future. (Added my 6 foot tall pic)", servicesImage: servicesImg3, alt: 'Photo Shooting image', }
-    ];
 
     return (
         <main>
