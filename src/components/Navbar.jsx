@@ -12,6 +12,7 @@ export default function Navbar() {
         {name: 'Home', url: '/react/'},
         {name: 'Photos', url: '/react/portfolio'},
         {name: 'Music', url: '/react/music'},
+        {name: 'Fyp', url: '/react/fyp'},
     ]
 
     return (

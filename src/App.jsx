@@ -5,6 +5,7 @@ import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Music from "./pages/Spotify";
 import { Photos } from "./pages/Photos";
+import Foryou from "./pages/ForYou";
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
           <Route path="/react/about" element={<About />} />
           <Route path="/react/music" element={<Music />} />
           <Route path="/react/photos" element={<Photos />} />
+          <Route path="/react/fyp" element={<Foryou/>} />
         </Routes>
     </>
   )
